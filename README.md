@@ -19,7 +19,7 @@ This experience confirmed my passion for addressing cybersecurity challenges, an
 
 <h2>Environments Used </h2>
 
-- <b>Macbook pro</b>
+- <b>macOS</b>
 
 <h2>Program walk-through:</h2>
 
